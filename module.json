@@ -1,0 +1,25 @@
+{
+  "authors": [
+    {
+      "name": "Josiah Sanchez"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "description": "A module including all content from the Adventures in Middle Earth 5e Books",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "name": "aime-content",
+  "title": "Adventures In Middle Earth Content",
+  "version": "1.0.0",
+  "scripts": [
+    "scripts/aime-content.js"
+  ]
+}
