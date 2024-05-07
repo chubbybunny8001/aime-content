@@ -9,6 +9,9 @@
     "verified": "11"
   },
   "description": "A module including all content from the Adventures in Middle Earth 5e Books",
+  "esmodules": [
+    "scripts/module.js"
+  ],
   "languages": [
     {
       "lang": "en",
@@ -17,9 +20,13 @@
     }
   ],
   "name": "aime-content",
-  "title": "Adventures In Middle Earth Content",
-  "version": "1.0.0",
+  "readme": "README.md",
   "scripts": [
-    "scripts/aime-content.js"
-  ]
+    "scripts/lib/lib.js"
+  ],
+  "styles": [
+    "styles/aime-content.css"
+  ],
+  "title": "Adventures In Middle Earth Content",
+  "version": "1.0.0"
 }
