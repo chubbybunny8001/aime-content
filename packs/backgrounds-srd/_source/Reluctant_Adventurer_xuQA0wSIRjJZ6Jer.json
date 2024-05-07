@@ -1,0 +1,19 @@
+{
+  "name": "Reluctant Adventurer",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "xuQA0wSIRjJZ6Jer",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714892829468,
+    "modifiedTime": 1714892829468,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!xuQA0wSIRjJZ6Jer"
+}

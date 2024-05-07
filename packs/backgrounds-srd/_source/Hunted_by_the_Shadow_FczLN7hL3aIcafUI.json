@@ -1,0 +1,19 @@
+{
+  "name": "Hunted by the Shadow",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "FczLN7hL3aIcafUI",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714892733067,
+    "modifiedTime": 1714892742970,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!FczLN7hL3aIcafUI"
+}

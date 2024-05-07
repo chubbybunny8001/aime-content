@@ -20,6 +20,15 @@
     }
   ],
   "name": "aime-content",
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "Adventures in Middle Earth Backgrounds",
+      "module": "aime-content",
+      "name": "Backgrounds",
+      "path": "packs/backgrounds"
+    }
+  ],
   "readme": "README.md",
   "scripts": [
     "scripts/lib/lib.js"

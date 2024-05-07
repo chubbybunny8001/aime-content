@@ -1,0 +1,19 @@
+{
+  "name": "World Weary",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "Ibbr5AEXNtpl30Mu",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714892884158,
+    "modifiedTime": 1714892884158,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!Ibbr5AEXNtpl30Mu"
+}

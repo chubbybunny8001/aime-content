@@ -1,0 +1,19 @@
+{
+  "name": "The Magician",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "eRQmrP3XUBdXOWXU",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714892784288,
+    "modifiedTime": 1714892784288,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!eRQmrP3XUBdXOWXU"
+}

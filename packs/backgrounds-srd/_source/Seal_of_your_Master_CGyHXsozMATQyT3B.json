@@ -1,0 +1,98 @@
+{
+  "folder": "0vLeiDdnmRmiEOxy",
+  "name": "Seal of your Master",
+  "type": "feat",
+  "_id": "CGyHXsozMATQyT3B",
+  "img": "worlds/adventures-in-middle-earth-campaign/assets/Compendium%20Images/Background%20Images/Seal%20of%20your%20Master.PNG",
+  "system": {
+    "description": {
+      "value": "<p>As an emissary you are entitled to a certain consideration amongst foreign peoples. While you cannot speak with the authority of your lord and master, you do receive some official respect. You can expect to pass through the lands of other Free Peoples unmolested, be able to call upon other kings and chieftains for lodging, and be received into the halls of power.</p>",
+      "chat": "<p>You can expect to pass through the lands of other Free Peoples unmolested, be able to call upon other kings and chieftains for lodging, and be received into the halls of power.</p>"
+    },
+    "source": {},
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "summons": null,
+    "type": {
+      "value": "background",
+      "subtype": ""
+    },
+    "properties": [],
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "2xrJsnBQmW2EudZz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714891722287,
+    "modifiedTime": 1714892049320,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!items!CGyHXsozMATQyT3B"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Doomed To Die",
+  "type": "background",
+  "_id": "aIc1eFqN6bW03QoF",
+  "img": "worlds/adventures-in-middle-earth-campaign/assets/Compendium%20Images/Background%20Images/Doomed%20To%20Die.PNG",
+  "system": {
+    "description": {
+      "value": "<blockquote><p>\"So it ends as I guessed it would\", his thought said, even as it fluttered away, and it laughed a little within him as it fled.</p><hr /></blockquote><p>Things are not going to end well for you. You’ve known this for most of your life, although you don’t quite understand why. It may just be a gut feeling or perhaps you took some prophetic dream to heart and assume that you’re going to be denied a happy ending in life. You just soldier on as best you can before the inevitable happens, hoping that your actions will at least make you worth remembering in the songs and tales now being written.</p><hr /><p><strong>Skill Proficiencies: </strong>Athletics, Intimidation</p><p><strong>Feature: </strong>@UUID[Compendium.world.backgrounds-srd.Item.SRIDJlYLyXGRR4BG]{Dark Foreboding}</p><hr /><h3>Dark Foreboding</h3><p>While they know not the hour or manner of their death, those Doomed to Die often have a sixth sense of sorts when in the presence of Shadow. They may not know exactly what is behind this feeling, but they can sense its presence grow stronger or weaker. The Doomed to Die can usually tell, for example, whether an Orc band is an isolated raiding party or part of a larger force being driven by something more sinister, or whether a nearby ruin is steeped in Shadow.</p><hr /><h3>Suggested Characteristics</h3><p>Those Doomed to Die seem to have a grim acceptance of their fates. While they tend to make the best of things while they can, there’s always a hint of sadness behind their smiles and a dullness in their eyes. While not necessarily pessimistic, the Doomed to Die often doubt whether they’ll live to see any plan through to completion, as they know that they are fated to die. They do, however, plan to make their mark a spectacular one, making the Doomed to Die one of the strongest and most prepared members of their companies.</p><ul><li><p>@UUID[RollTable.UEwXGa5gZJ8V1FlL]{Distinctive Quality}</p></li><li><p>@UUID[RollTable.phb7fp7fSnLAjFbK]{Specialty}</p></li><li><p>@UUID[RollTable.cSrUCAukEwO48fJR]{Hope}</p></li><li><p>@UUID[RollTable.xNvWT4X6s70JnK76]{Despair}</p></li></ul>",
+      "chat": ""
+    },
+    "source": {},
+    "startingEquipment": [],
+    "advancement": [
+      {
+        "_id": "XFoZN1Olyprmcwk5",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [
+            "skills:ath",
+            "skills:itm"
+          ],
+          "choices": [],
+          "hint": ""
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Skill Proficiencies",
+        "icon": null
+      },
+      {
+        "_id": "zk0n5FkfD5xHHhWx",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.world.backgrounds-srd.Item.SRIDJlYLyXGRR4BG"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      }
+    ]
+  },
+  "effects": [],
+  "folder": "3uMQu8srOjSGQHry",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "2xrJsnBQmW2EudZz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714809756872,
+    "modifiedTime": 1714891682501,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!items!aIc1eFqN6bW03QoF"
+}

@@ -1,0 +1,64 @@
+{
+  "folder": "gJ1uEmSayNjMfX1V",
+  "name": "Emissary of your People",
+  "type": "background",
+  "_id": "36ZCOocm7i0sPWp2",
+  "img": "worlds/adventures-in-middle-earth-campaign/assets/Compendium%20Images/Background%20Images/Emissary%20of%20your%20People.PNG",
+  "system": {
+    "description": {
+      "value": "<blockquote><p>\"Give me leave,\" said he, \"first to say more of Gondor, for verily from the land of Gondor I am come. And it would be well for all to know what passes there. For few, I deem, know of our deeds, and therefore guess little of their peril, if we should fail at last.\"</p><hr /></blockquote><h3>Overview</h3><p>The Free People of the West are beginning to again make connections with each other. Trade is improving, alliances are forming and folk who have had nothing to do with each other for centuries are finding reasons to communicate. You have been sent by your people to go out and meet other cultures, see strange lands and report back on what is out there in the grand world. The Shadow is lifting, and not just in Wilderland, and you are a beacon of hope for a new age.</p><hr /><p><strong>Skill Proficiencies: </strong>Persuasion, Traditions</p><p><strong>Feature: </strong>@UUID[Compendium.world.backgrounds-srd.Item.CGyHXsozMATQyT3B]{Seal of your Master}</p><hr /><h3>Seal of your Master</h3><p>As an emissary you are entitled to a certain consideration amongst foreign peoples. While you cannot speak with the authority of your lord and master, you do receive some official respect. You can expect to pass through the lands of other Free Peoples unmolested, be able to call upon other kings and chieftains for lodging, and be received into the halls of power.</p><hr /><h3>Suggested Characteristics</h3><p>Emissaries are usually friendly negotiators; it is a rare Emissary that is dour and standoffish – such Emissaries were generally chosen for reasons other than their people skills. Emissaries are adaptable and accepting of foreign ways and understand that practicality and alliances must sometimes take precedence over tradition and old grievances. Unfortunately, an Emissary’s accommodating nature also makes them difficult to trust as many fear that deception often hides behind a toothy smile.</p><ul><li><p>@UUID[RollTable.vyqeTVee0jNB3TL2]{Distinctive Quality}</p></li><li><p>@UUID[RollTable.4TBmM0Vg9SPro1A7]{Specialty}</p></li><li><p>@UUID[RollTable.vCtcZN5t6qEOPJ84]{Hope}</p></li><li><p>@UUID[RollTable.YvE1RlgztAK9J0A5]{Despair}</p></li></ul>",
+      "chat": ""
+    },
+    "source": {},
+    "startingEquipment": [],
+    "advancement": [
+      {
+        "_id": "lAAhIQlqGw0Aq0WN",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [
+            "skills:per",
+            "skills:tra"
+          ],
+          "choices": [],
+          "hint": ""
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Skill Proficiencies",
+        "icon": null
+      },
+      {
+        "_id": "SVl5Nf4z3YdpfjCD",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "2xrJsnBQmW2EudZz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714890893195,
+    "modifiedTime": 1714892520561,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!items!36ZCOocm7i0sPWp2"
+}

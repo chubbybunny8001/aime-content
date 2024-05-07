@@ -1,0 +1,19 @@
+{
+  "name": "Doomed To Die",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "3uMQu8srOjSGQHry",
+  "sort": 0,
+  "color": "#a91919",
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714816723484,
+    "modifiedTime": 1714818324226,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!3uMQu8srOjSGQHry"
+}

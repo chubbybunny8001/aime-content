@@ -1,0 +1,100 @@
+{
+  "name": "Dark Foreboding",
+  "type": "feat",
+  "img": "worlds/adventures-in-middle-earth-campaign/assets/Compendium%20Images/Background%20Images/Dark%20Foreboding.PNG",
+  "system": {
+    "description": {
+      "value": "<p>Those who are Doomed to Die often have a sixth sense of sorts when in the presence of Shadow. They may not know exactly what is behind this feeling, but they can sense its presence grow stronger or weaker. </p><p>The Doomed to Die can usually tell, for example, whether an Orc band is an isolated raiding party or part of a larger force being driven by something more sinister, or whether a nearby ruin is steeped in Shadow.</p>",
+      "chat": "<p>If you can see an enemy or group of enemies, you can determine whether or not its a part of a greater party or is an isolated group.</p>"
+    },
+    "source": {},
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": "You must be able to see the enemy group or party."
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "enemy",
+      "prompt": true
+    },
+    "range": {
+      "value": 2,
+      "long": 4,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "sr",
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "wis",
+    "actionType": "rsak",
+    "attack": {
+      "bonus": "",
+      "flat": false
+    },
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "wis"
+    },
+    "summons": null,
+    "type": {
+      "value": "background",
+      "subtype": ""
+    },
+    "properties": [],
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "effects": [],
+  "folder": "8Hh9NHoqEnkDP1qR",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714811682979,
+    "modifiedTime": 1714816774858,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_id": "SRIDJlYLyXGRR4BG",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "2xrJsnBQmW2EudZz": 3
+  },
+  "_key": "!items!SRIDJlYLyXGRR4BG"
+}

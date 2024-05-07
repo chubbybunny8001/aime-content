@@ -1,0 +1,19 @@
+{
+  "name": "Lure of the Road",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "iITTkiUZLZ1BmVRU",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714892769482,
+    "modifiedTime": 1714892769482,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!iITTkiUZLZ1BmVRU"
+}

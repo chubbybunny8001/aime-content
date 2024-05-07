@@ -1,0 +1,19 @@
+{
+  "name": "Feature",
+  "sorting": "a",
+  "folder": "3uMQu8srOjSGQHry",
+  "type": "Item",
+  "_id": "8Hh9NHoqEnkDP1qR",
+  "sort": 0,
+  "color": "#cf2020",
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1714818338129,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!8Hh9NHoqEnkDP1qR"
+}

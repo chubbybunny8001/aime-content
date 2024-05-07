@@ -1,0 +1,19 @@
+{
+  "name": "Emissary of your People",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "gJ1uEmSayNjMfX1V",
+  "sort": 0,
+  "color": "#9f1e94",
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714890845809,
+    "modifiedTime": 1714890845809,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!gJ1uEmSayNjMfX1V"
+}

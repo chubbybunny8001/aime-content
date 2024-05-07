@@ -1,0 +1,19 @@
+{
+  "name": "Fallen Scion",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "fcstUdaRnKZJUEz8",
+  "sort": 0,
+  "color": "#6daa13",
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.1.2",
+    "coreVersion": "11.315",
+    "createdTime": 1714892632450,
+    "modifiedTime": 1714896431479,
+    "lastModifiedBy": "2xrJsnBQmW2EudZz"
+  },
+  "_key": "!folders!fcstUdaRnKZJUEz8"
+}
