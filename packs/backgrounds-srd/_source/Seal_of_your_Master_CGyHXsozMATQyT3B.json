@@ -3,7 +3,7 @@
   "name": "Seal of your Master",
   "type": "feat",
   "_id": "CGyHXsozMATQyT3B",
-  "img": "worlds/adventures-in-middle-earth-campaign/assets/Compendium%20Images/Background%20Images/Seal%20of%20your%20Master.PNG",
+  "img": "modules/aime-content/assets/Compendium%20Images/Background%20Images/Seal%20of%20your%20Master.PNG",
   "system": {
     "description": {
       "value": "<p>As an emissary you are entitled to a certain consideration amongst foreign peoples. While you cannot speak with the authority of your lord and master, you do receive some official respect. You can expect to pass through the lands of other Free Peoples unmolested, be able to call upon other kings and chieftains for lodging, and be received into the halls of power.</p>",

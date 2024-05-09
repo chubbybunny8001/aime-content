@@ -1,7 +1,7 @@
 {
   "name": "Dark Foreboding",
   "type": "feat",
-  "img": "worlds/adventures-in-middle-earth-campaign/assets/Compendium%20Images/Background%20Images/Dark%20Foreboding.PNG",
+  "img": "modules/aime-content/assets/Compendium%20Images/Background%20Images/Dark%20Foreboding.PNG",
   "system": {
     "description": {
       "value": "<p>Those who are Doomed to Die often have a sixth sense of sorts when in the presence of Shadow. They may not know exactly what is behind this feeling, but they can sense its presence grow stronger or weaker. </p><p>The Doomed to Die can usually tell, for example, whether an Orc band is an isolated raiding party or part of a larger force being driven by something more sinister, or whether a nearby ruin is steeped in Shadow.</p>",

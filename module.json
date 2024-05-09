@@ -1,14 +1,27 @@
 {
+  "id": "aime-content",
+  "name": "aime-content",
+  "title": "Adventures In Middle Earth Content",
+  "description": "A module including all content from the Adventures in Middle Earth 5e Books",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Josiah Sanchez"
     }
   ],
-  "compatibility": {
-    "minimum": "10",
-    "verified": "11"
-  },
-  "description": "A module including all content from the Adventures in Middle Earth 5e Books",
   "esmodules": [
     "scripts/module.js"
   ],
@@ -19,14 +32,22 @@
       "path": "languages/en.json"
     }
   ],
-  "name": "aime-content",
   "packs": [
     {
-      "entity": "Item",
+      "name": "backgroundssrd",
       "label": "Adventures in Middle Earth Backgrounds",
-      "module": "aime-content",
-      "name": "Backgrounds",
-      "path": "packs/backgrounds"
+      "path": "./packs/backgrounds-srd",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "backgroundcharacteristics",
+      "label": "Adventures in Middle Earth Background Characteristics",
+      "path": "./packs/background-characteristics",
+      "type": "RollTable",
+      "entity": "RollTable",
+      "system": "dnd5e"
     }
   ],
   "readme": "README.md",
@@ -35,7 +56,5 @@
   ],
   "styles": [
     "styles/aime-content.css"
-  ],
-  "title": "Adventures In Middle Earth Content",
-  "version": "1.0.0"
+  ]
 }
